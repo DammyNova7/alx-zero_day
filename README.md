@@ -1,1 +1,2 @@
-A readme for this project
+A readme for this project 
+It's all about Git
